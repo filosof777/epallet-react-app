@@ -6,17 +6,17 @@ function HeaderCenterInfo() {
     <ul className="header-center__list">
       <li className="header-center__item">
         <a className="header-center__link" href="#">
-          <i class="fal fa-shredder"></i>orders
+          <i className="fal fa-shredder"></i>orders
         </a>
       </li>
       <li className="header-center__item">
         <a className="header-center__link" href="#">
-          <i class="fal fa-shopping-cart"></i>cart
+          <i className="fal fa-shopping-cart"></i>cart
         </a>
       </li>
       <li className="header-center__item">
         <a className="header-center__link" href="#">
-          <i class="fal fa-user-alt"></i>profile
+          <i className="fal fa-user-alt"></i>profile
         </a>
       </li>
     </ul>

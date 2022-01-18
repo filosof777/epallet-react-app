@@ -10,4 +10,4 @@ function HeaderTopRight() {
   )
 }
 
-export default HeaderTopRight
+export default HeaderTopRight;
