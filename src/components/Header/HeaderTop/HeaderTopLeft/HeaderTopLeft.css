@@ -1,0 +1,29 @@
+/* header top left */
+
+.header-top__btn {
+  border: none;
+  background-color: transparent;
+  color: #fff;
+  font-size: 18px;
+  margin-right: 30px;
+}
+
+.header-top__icon {
+  color: #fff;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.header-top__input {
+  background-color: transparent;
+  width: 120px;
+  font-size: 18px;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+
+.header-top__input::placeholder {
+  font-size: 18px;
+  color: #fff;
+}
